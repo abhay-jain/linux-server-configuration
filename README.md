@@ -21,6 +21,16 @@ This page explains how to securely set up a Linux distribution on a virtual mach
 - **SSH login password:** grader
 - **Application URL:** http://18.197.51.8.xip.io
 
+## Summary of software used
+
+- Got all system packages updates available: sudo apt-get update
+- Installed all system packages updates: sudo apt-get upgrade
+- Python installed
+- Flask installed
+- Apache installed.
+- Git installed.
+- WSGI_mod installed
+
 ## Notes to reviewer
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEAwr3/XnXL3bRe8F74T8N4HXiovhWIQUjyakX/RjCQF0wsnh85
