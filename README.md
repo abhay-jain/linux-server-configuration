@@ -31,35 +31,6 @@ This page explains how to securely set up a Linux distribution on a virtual mach
 - Git installed.
 - WSGI_mod installed
 
-## Notes to reviewer
------BEGIN RSA PRIVATE KEY-----
-MIIEpAIBAAKCAQEAwr3/XnXL3bRe8F74T8N4HXiovhWIQUjyakX/RjCQF0wsnh85
-h+BKeL+dhnh5e0bG5aujvDtya3yypcbUzfmKhzqMr438KipACIpNB/UO8Kmsqvop
-1/E+Ba1QPt2iiyFx9C+32iVhiMYf+OGy2UjDA8/lqQigYVK4wHCoG5p0M7D5pEg8
-SHcFlQCk41zRsKb9fcrqH9CdxHyCcdQ123mf15QsCL3GfGjl3v/m8PamjcReFFxP
-utYIav/g+9zCdMscywi75hC7cAEb1g1am/6PX3ft6ozJwRXi+MYOWarY7cEWo5Au
-TG3979TR+1n9Y+lyZoZcwpw8L42QszVziIkl2wIDAQABAoIBAF26wsl9GsU3hiZd
-H1iMtShCJb1vcagyavK5g/cNcpyz/hmQ38jFLDLXzwKkw5uQ4jQym1kCp7ySRQ3D
-GDOW8pTJmmL4jLDiqvUxU4gL68frcn7Mbw1PQFHNK/1GAXDDhSxJN00Yhswkx8ir
-IMCx46LXEit8SmztOpzs3AyFF360zDBH1W9g3QMUJ2DLdHNnCQN5/438i5/NX5pu
-Y7bsgPmRdt/KsuSF5WDgPkVlX7zCy/j66QAzeEZCG6ozJjUx+b6deBSa/XPCR4PH
-PcuN1R5KHcBhrwo8plZh04SGYlcNui9592pf6Rey3kzZyfmkO0TTzErUNtrOfUqj
-LHiV/jECgYEA93urzPjSn4xzRdbatvnkKjnARm8C/9iVxwprfXevTc5LQxonbJI6
-haCHL5a1aF+4VV+joSttBfjpZNdlGH4l7dmZ+t8NAQzZ1ce5qzt9fDMD2Wvyjkbc
-OqogSrVJ9BkZLD82bDQxOfusbCId+w3HY4Bk0xnMs0nrlFXJmW37HGMCgYEAyXGt
-qsyJEbOV4ZPPUSw8HTSlRYF0RaRX57Grbox7UBy6GUz6j5VdEUtaxHA2FRqrhZZR
-95YRzN/xDhSFbNkPsFrCVYYFERVdWQOl+cbyOK0fAC0n5FypWAhUeePYfa6dumrP
-RO2sxwIsnj17Oa71vv9Ukc+RcUmka3ZoCV9qHikCgYEAwxWE1v2pokVntLzqCeSw
-XCzMCXmGxsEnSBBJrUzELrQYlduvCiG26hEhn3zQoWca+ol6hhiiR1vwNyKnuYfv
-RDAM9joPmS1VJfTbwkQR5e6c8S3rtQXcoo3rCJkho76JHlzx/Jej2k4um8rFEVrK
-OwBB+jpTJ110y6hYU47jrHsCgYBQRiCyo3cruqjLj59Z9YqvCL+jhwbSib8N8Vsj
-Xo/1SL1QP8DJXvgLYD/3b8/dcRdQ0KoxQ3gscEEbH0pcKdN6r3AprJJwUFc2laGa
-e5EizLpB07zF37cMAaXIPOeUjfUEyHN4QE5Nr6wgEtf8EKCVUCJfSJvozTPcLv8e
-XQtooQKBgQCfPhISGMNGgjVWOoO2O+wNgNKjebC1KGU+RgRzX47+1pWt3lOkuJJ4
-8XOZn6bHdD4FZ9F8U+VBtn/oWorfkzUrqkGhOJf6YiOpCG9E4T1mkG9SHqTVlz9N
-asYcx+y0a/mVOHcIFayP/tPEm7+GBeBOXd1qoit8P2M2aHHh3ORUBA==
------END RSA PRIVATE KEY-----
-
 ## Set up a server
 
 ### Start a new Ubuntu Linux server instance on Amazon Lightsail 
